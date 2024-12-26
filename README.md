@@ -21,5 +21,5 @@ GESDYN é uma aplicação projetada para gerenciar horários de forma eficiente 
 ## Objetivo
 O GESDYN foi idealizado para ser flexível e escalável, permitindo sua adaptação a diferentes tipos de serviços e equipes. Ele pode ser utilizado por empresas, instituições educacionais, hospitais e qualquer organização que precise gerenciar horários de forma dinâmica e eficaz. 
 
-![image](https://github.com/user-attachments/assets/80032199-1ad0-4fc7-8436-f7caa6d3fb99)  
+![image](https://github.com/user-attachments/assets/13bb9fc9-064e-41f3-b69e-cb93cf358935)  
 (Protótipo em construção)
